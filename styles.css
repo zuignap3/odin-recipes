@@ -1,0 +1,37 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 8px;
+}
+
+.title {
+    text-align: center;
+}
+
+.recipe-image {
+margin-top: 32px;
+background-color: black;
+width: fit-content;
+}
+
+.description-title,
+.description {
+    background-color: lightblue;
+    padding: 8px;
+}
+
+.ingredients-title,
+.ingredients {
+    background-color: lightcoral;
+    padding: 8px;
+}
+
+.steps-title,
+.steps {
+    background-color: lightsalmon;
+    padding: 8px;
+}
+
+.ingredients,
+.steps {
+    padding-left: 16px;
+}
